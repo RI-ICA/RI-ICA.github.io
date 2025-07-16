@@ -1,0 +1,29 @@
+---
+title: "Commission RI-ICA"
+format: html
+jupyter: python3
+---
+
+
+[Table AAP Européens & Internationaux](table_international_AAP.csv)
+
+```{python}
+#| echo: false
+import pandas as pd
+df = pd.read_csv("table_international_AAP.csv")
+df = df.fillna('')
+df
+```
+
+## Idées des actions sorties au CS
+
+- Accueil étudiants étrangers
+- Visitants
+- AAP international – point d’information
+- UPS : personne pour aider le montage de projets
+- GRR – programme CNRS pour réseaux / actions
+
+## Réunions de la commission – 22 janvier 2025
+
+- Échanges sur : où enregistrer ces informations ? comment communiquer ? fonction de la commission ? qui a besoin de quoi ?
+- Accompagner les candidats au CNRS (qui sont normalement de l’international)
