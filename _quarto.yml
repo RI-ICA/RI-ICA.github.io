@@ -8,3 +8,6 @@ website:
     left:
       - href: index.qmd
         text: Home
+
+execute:
+  freeze: auto
