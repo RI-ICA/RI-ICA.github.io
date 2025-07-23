@@ -1,14 +1,15 @@
-﻿Nom Resumé,Type,Pays,Date Debut,"Date de reponse AAP ",Récurrence,Site web
-COFFECUB,MAEE + CAPES,Brésil,,,AAP annuel,
-International Research Project,INSIS CNRS,All,"January 1, 2025","May 15, 2025",AAP annuel,
-International Research Network,INSIS CNRS,All,"February 1, 2025","May 15, 2025",AAP annuel,
-International Emerging Action,INSIS CNRS,All,"June 1, 2025","June 1, 2025 → September 1, 2025",AAP annuel,
-Doctoral Networks MSCA,Horizon Europe,Etats membres & associés CE,,,AAP annuel,
-Post-Doc Fellowship MSCA,Horizon Europe,Etats membres & associés CE,,"September 10, 2025",AAP annuel,
-PHC Galilée,Campus France,Italie,,"May 19, 2025",AAP annuel,https://www.campusfrance.org/en/node/2406
-PHC Ulysse,Campus France,Irlande,,,AAP annuel,https://www.campusfrance.org/fr/ulysses
-,France-Italie,Italie,,,,
-Interreg Sudoe,Horizon Europe,"Andorre, Espagne, Portugal",,,AAP annuel,https://www.interreg-sudoe.eu/gbr/home
-Poctefa (Frontalier - au tour des Pyrinnées),Horizon Europe,"Andorre, Espagne","January 18, 2025","February 25, 2025 → April 19, 2025",,https://www.poctefa.eu/fr/
-?,,,,"July 15, 2025 → August 11, 2025",,
-"Transatlantic Research Partnership (TRP) ",Autre,USA,"January 22, 2025","January 22, 2025 → February 28, 2025",,https://albertinefoundation.org/higher-education/transatlantic-research-partnership/
+﻿Nom Resumé;Type;Pays;Date Debut;Date de reponse AAP ;Récurrence;Site web
+COFFECUB;MAEE + CAPES;Brésil;;;AAP annuel;
+International Research Project;INSIS CNRS;All;January 1, 2025;May 15, 2025;AAP annuel;
+International Research Network;INSIS CNRS;All;February 1, 2025;May 15, 2025;AAP annuel;
+International Emerging Action;INSIS CNRS;All;June 1, 2025;June 1, 2025 → September 1, 2025;AAP annuel;
+Doctoral Networks MSCA;Horizon Europe;Etats membres & associés CE;;;AAP annuel;
+Post-Doc Fellowship MSCA;Horizon Europe;Etats membres & associés CE;;September 10, 2025;AAP annuel;
+PHC Galilée;Campus France;Italie;;May 19, 2025;AAP annuel;https://www.campusfrance.org/en/node/2406
+PHC Ulysse;Campus France;Irlande;;;AAP annuel;https://www.campusfrance.org/fr/ulysses
+;France-Italie;Italie;;;;
+Interreg Sudoe;Horizon Europe;Andorre, Espagne, Portugal;;;AAP annuel;https://www.interreg-sudoe.eu/gbr/home
+Poctefa (Frontalier - au tour des Pyrinnées);Horizon Europe;Andorre, Espagne;January 18, 2025;February 25, 2025 → April 19, 2025;;https://www.poctefa.eu/fr/
+?;;;;July 15, 2025 → August 11, 2025;;
+Transatlantic Research Partnership (TRP) ;Autre;USA;January 22, 2025;January 22, 2025 → February 28, 2025;;https://albertinefoundation.org/higher-education/transatlantic-research-partnership/
+Nouvel nom projet;type 1;;;;;
