@@ -1,0 +1,55 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Commission Relations Internationales - ICA\"\n",
+        "format: html\n",
+        "jupyter: python3\n",
+        "---\n",
+        "\n",
+        "[Table AAP Européens & Internationaux](table_international_AAP.csv)"
+      ],
+      "id": "64804bfd"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "#| echo: false\n",
+        "import pandas as pd\n",
+        "df = pd.read_csv(\"table_international_AAP.csv\")\n",
+        "df = df.fillna('')\n",
+        "df"
+      ],
+      "id": "eda8c765",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "## Idées des actions sorties au CS\n",
+        "\n",
+        "-   Accueil étudiants étrangers\n",
+        "-   Informatin des visiteurs étrangers\n",
+        "-   AAP international – point d’information des tutelles\n",
+        "-   GRR – programme CNRS pour réseaux / actions 2\n"
+      ],
+      "id": "ad26cd34"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "C:\\Users\\acmontei\\AppData\\Roaming\\Python\\share\\jupyter\\kernels\\python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
