@@ -1,0 +1,6257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="700mm"
+   version="1.1"
+   width="400mm"
+   id="svg2057"
+   sodipodi:docname="matrice_semesters5.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2059"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.7404592"
+     inkscape:cx="609.89653"
+     inkscape:cy="185.87049"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2057" />
+  <defs
+     id="defs219">
+    <marker
+       id="id1"
+       markerHeight="10"
+       markerWidth="10"
+       orient="auto"
+       refX="10"
+       refY="5">
+      <path
+         d="M0,0 L10,5 L0,10 L2,5 Z"
+         fill="black"
+         id="path216" />
+    </marker>
+  </defs>
+  <text
+     fill="black"
+     font-size="14"
+     font-weight="bold"
+     x="40"
+     y="10"
+     id="text221">SEM 1</text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="40"
+     id="rect223" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="55"
+     id="text225">D1ANMA01</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="67"
+     id="text227">DOMAINE MATHEMATIQUES ET ALGORITHMIQUE</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="79"
+     id="text229">ECTS: 21.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="110"
+     id="rect231" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="125"
+     id="text233">I1ANMAAI</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="137"
+     id="text235">Algorithmique impérative</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="149"
+     id="text237">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="180"
+     id="rect239" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="195"
+     id="text241">I1ANMAAR</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="207"
+     id="text243">Argumentation, rigueur et raisonnement</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="219"
+     id="text245">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="250"
+     id="rect247" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="265"
+     id="text249">I1ANMATC</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="277"
+     id="text251">Techniques de calculs</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="289"
+     id="text253">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="320"
+     id="rect255" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="335"
+     id="text257">I1ANMAEF</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="347"
+     id="text259">Etude de fonctions</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="359"
+     id="text261">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="390"
+     id="rect263" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="405"
+     id="text265">I1ANMAAL</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="417"
+     id="text267">Algèbre</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="429"
+     id="text269">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="460"
+     id="rect271" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="475"
+     id="text273">D1MAIF11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="487"
+     id="text275">Algorithmique 1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="499"
+     id="text277">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="530"
+     id="rect279" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="545"
+     id="text281">D1MAM011</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="557"
+     id="text283">Mathématiques 0</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="569"
+     id="text285">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="600"
+     id="rect287" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="615"
+     id="text289">D1MAM111</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="627"
+     id="text291">Mathématiques 1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="639"
+     id="text293">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="670"
+     id="rect295" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="685"
+     id="text297">D1ANET01</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="697"
+     id="text299">DOMAINE SCIENCES PHYSIQUES, CHIMIQUES ET INDUSTRIELLES</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="709"
+     id="text301">ECTS: 26.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="740"
+     id="rect303" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="755"
+     id="text305">I1ANETCH</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="767"
+     id="text307">Chimie</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="779"
+     id="text309">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="810"
+     id="rect311" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="825"
+     id="text313">I1ANETEC</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="837"
+     id="text315">Phénomènes électriques</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="849"
+     id="text317">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="880"
+     id="rect319" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="895"
+     id="text321">I1ANETMP</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="907"
+     id="text323">Mécanique du point</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="919"
+     id="text325">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="950"
+     id="rect327" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="965"
+     id="text329">I1ANETTH</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="977"
+     id="text331">Thermodynamique</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="989"
+     id="text333">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="1020"
+     id="rect335" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1035"
+     id="text337">I1ANETTI</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1047"
+     id="text339">Sciences industrielles</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1059"
+     id="text341">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="1090"
+     id="rect343" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1105"
+     id="text345">I1ANETOP</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1117"
+     id="text347">Optique géométrique</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1129"
+     id="text349">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="1160"
+     id="rect351" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1175"
+     id="text353">I1ANAC01</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1187"
+     id="text355">Acquérir de nouveaux concepts</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1199"
+     id="text357">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="1230"
+     id="rect359" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1245"
+     id="text361">I1ANAC02</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1257"
+     id="text363">Résoudre un problème</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1269"
+     id="text365">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="1300"
+     id="rect367" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1315"
+     id="text369">I1ANAC03</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1327"
+     id="text371">Conduire et interpréter une expérimentation</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1339"
+     id="text373">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="1370"
+     id="rect375" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1385"
+     id="text377">I1ANETCS</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1397"
+     id="text379">PENSER</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1409"
+     id="text381">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="1440"
+     id="rect383" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1455"
+     id="text385">I1ANAEGA</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1467"
+     id="text387">Etudiant associatif</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1479"
+     id="text389">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="1510"
+     id="rect391" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1525"
+     id="text393">D1ETE111</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1537"
+     id="text395">Electrocinétique 1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1549"
+     id="text397">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="1580"
+     id="rect399" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1595"
+     id="text401">D1ANHU01</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1607"
+     id="text403">DOMAINE HUMANITES</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1619"
+     id="text405">ECTS: 13.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="1650"
+     id="rect407" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1665"
+     id="text409">I1ANHUMC01</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1677"
+     id="text411">Repérer, comprendre et exploiter des informations</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1689"
+     id="text413">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="1720"
+     id="rect415" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1735"
+     id="text417">I1ANHUMC02</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1747"
+     id="text419">S'engager dans une tâche</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1759"
+     id="text421">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="1790"
+     id="rect423" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1805"
+     id="text425">I1ANHUMC03</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1817"
+     id="text427">Communiquer dans un contexte interculturel</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1829"
+     id="text429">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="1860"
+     id="rect431" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1875"
+     id="text433">I1ANHUMC04</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1887"
+     id="text435">Maîtriser les techniques d'expression écrite</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1899"
+     id="text437">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="1930"
+     id="rect439" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1945"
+     id="text441">I1ANHUMC05</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1957"
+     id="text443">Maîtriser les techniques d'expression orale</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="1969"
+     id="text445">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="2000"
+     id="rect447" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="2015"
+     id="text449">I1ANHUMC06</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="2027"
+     id="text451">Apprendre à apprendre</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="2039"
+     id="text453">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="2070"
+     id="rect455" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="2085"
+     id="text457">I1ANHUMC07</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="2097"
+     id="text459">Responsabilité sociale des entreprises</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="2109"
+     id="text461">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="40"
+     y="2140"
+     id="rect463" />
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="2155"
+     id="text465">I1ANHUMC08</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="2167"
+     id="text467">Entretenir sa condition physique</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="45"
+     y="2179"
+     id="text469">ECTS: 0.0, Hours: 0.0</text>
+  <text
+     fill="black"
+     font-size="14"
+     font-weight="bold"
+     x="185"
+     y="10"
+     id="text471">SEM 2</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="40"
+     id="rect473" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="55"
+     id="text475">D1MAIF21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="67"
+     id="text477">Algorithmique 2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="79"
+     id="text479">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="110"
+     id="rect481" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="125"
+     id="text483">D1MAM221</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="137"
+     id="text485">Mathématiques 2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="149"
+     id="text487">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="180"
+     id="rect489" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="195"
+     id="text491">D1MAOM11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="207"
+     id="text493">Outils mathématiques pour l'Ingénieur</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="219"
+     id="text495">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="250"
+     id="rect497" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="265"
+     id="text499">D1ETCH11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="277"
+     id="text501">Chimie</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="289"
+     id="text503">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="320"
+     id="rect505" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="335"
+     id="text507">D1ETOP11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="347"
+     id="text509">Optique</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="359"
+     id="text511">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="390"
+     id="rect513" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="405"
+     id="text515">D1ETMP11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="417"
+     id="text517">Mécanique du point</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="429"
+     id="text519">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="460"
+     id="rect521" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="475"
+     id="text523">D1ETTI11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="487"
+     id="text525">Sciences industrielles 1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="499"
+     id="text527">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="530"
+     id="rect529" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="545"
+     id="text531">D1ETE221</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="557"
+     id="text533">Electrocinétique 2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="569"
+     id="text535">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="600"
+     id="rect537" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="615"
+     id="text539">D1ETTH21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="627"
+     id="text541">Thermodynamique</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="639"
+     id="text543">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="670"
+     id="rect545" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="685"
+     id="text547">D1ETTI21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="697"
+     id="text549">Sciences industrielles 2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="709"
+     id="text551">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="740"
+     id="rect553" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="755"
+     id="text555">D1ETCS21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="767"
+     id="text557">PENSER</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="779"
+     id="text559">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="810"
+     id="rect561" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="825"
+     id="text563">I1ANHUMC09</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="837"
+     id="text565">Se connaître pour mieux s'orienter</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="849"
+     id="text567">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="880"
+     id="rect569" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="895"
+     id="text571">I1ANHUMC10</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="907"
+     id="text573">Développer sa pratique artistique</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="919"
+     id="text575">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="950"
+     id="rect577" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="965"
+     id="text579">I1ANHUMC11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="977"
+     id="text581">Maîtriser la langue franà§aise écrite</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="989"
+     id="text583">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="1020"
+     id="rect585" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1035"
+     id="text587">I1ANHUMC12</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1047"
+     id="text589">Comprendre l'Etat et l'Europe</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1059"
+     id="text591">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="1090"
+     id="rect593" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1105"
+     id="text595">D1HUL111</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1117"
+     id="text597">Langue vivante 1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1129"
+     id="text599">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="1160"
+     id="rect601" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1175"
+     id="text603">D1HUL211</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1187"
+     id="text605">Langue vivante 2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1199"
+     id="text607">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="1230"
+     id="rect609" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1245"
+     id="text611">D1HUEX21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1257"
+     id="text613">Expression</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1269"
+     id="text615">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="1300"
+     id="rect617" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1315"
+     id="text619">D1HUGE21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1327"
+     id="text621">Responsabilité sociale de l'entreprise</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1339"
+     id="text623">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="1370"
+     id="rect625" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1385"
+     id="text627">D1HUAP11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1397"
+     id="text629">APS</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1409"
+     id="text631">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="1440"
+     id="rect633" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1455"
+     id="text635">D1HUPP11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1467"
+     id="text637">PPI</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1479"
+     id="text639">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="185"
+     y="1510"
+     id="rect641" />
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1525"
+     id="text643">D1HUAA11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1537"
+     id="text645">Apprendre à apprendre</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="190"
+     y="1549"
+     id="text647">ECTS: 0.0, Hours: 0.0</text>
+  <text
+     fill="#000000"
+     font-size="14px"
+     font-weight="bold"
+     x="333.44736"
+     y="26.66227"
+     id="text649">SEM 3</text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="40"
+     id="rect651" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="55"
+     id="text653">I2ICMM31</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="67"
+     id="text655">MATHEMATIQUES ET MECANIQUE I</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="79"
+     id="text657">ECTS: 12.0, Hours: 145.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="110"
+     id="rect659" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="125"
+     id="text661">I2ICMT31</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="137"
+     id="text663">Mathématiques</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="149"
+     id="text665">ECTS: 8.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="180"
+     id="rect667" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="195"
+     id="text669">I2ICMT31_MA</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="207"
+     id="text671">Mathématiques</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="219"
+     id="text673">ECTS: 3.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="250"
+     id="rect675" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="265"
+     id="text677">I2ICMT31_AN</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="277"
+     id="text679">Analyse Numérique</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="289"
+     id="text681">ECTS: 3.0, Hours: 35.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="320"
+     id="rect683" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="335"
+     id="text685">I2ICMT31_PR</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="347"
+     id="text687">Probabilités</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="359"
+     id="text689">ECTS: 2.0, Hours: 30.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="390"
+     id="rect691" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="405"
+     id="text693">I2ICME31</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="417"
+     id="text695">Mécanique</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="429"
+     id="text697">ECTS: 4.0, Hours: </text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="460"
+     id="rect699" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="475"
+     id="text701">I2ICCC31</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="487"
+     id="text703">CONCEPTION ET CONSTRUCTION I</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="499"
+     id="text705">ECTS: 12.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="530"
+     id="rect707" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="545"
+     id="text709">I2ICTI31</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="557"
+     id="text711">Conception _ CAO</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="569"
+     id="text713">ECTS: 8.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="600"
+     id="rect715" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="615"
+     id="text717">I2ICTI31_GM</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="627"
+     id="text719">CAO _ GENIE MECANIQUE</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="639"
+     id="text721">ECTS: 4.0, Hours: 42.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="670"
+     id="rect723" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="685"
+     id="text725">I2ICRM31</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="697"
+     id="text727">Résistance des Matériaux 1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="709"
+     id="text729">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="740"
+     id="rect731" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="755"
+     id="text733">I2DHUM11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="767"
+     id="text735">HUMANITES_SEMESTRE 1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="779"
+     id="text737">ECTS: 7.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="810"
+     id="rect739" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="825"
+     id="text741">I2DHUMEXPR11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="837"
+     id="text743">Expression</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="849"
+     id="text745">ECTS: 1.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="880"
+     id="rect747" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="895"
+     id="text749">I2DHUMECO11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="907"
+     id="text751">Economie contemporaine et transition écologique</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="919"
+     id="text753">ECTS: 1.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="950"
+     id="rect755" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="965"
+     id="text757">I2DHUMLV111</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="977"
+     id="text759">Langue Vivante 1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="989"
+     id="text761">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="1020"
+     id="rect763" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="1035"
+     id="text765">I2DHUMSTG11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="1047"
+     id="text767">Soutenance de stage</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="1059"
+     id="text769">ECTS: 1.0, Hours: 3.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="1090"
+     id="rect771" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="1105"
+     id="text773">I2DHUMPPI11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="1117"
+     id="text775">Projet Professionnel Individualisé</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="1129"
+     id="text777">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="1160"
+     id="rect779" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="1175"
+     id="text781">I2DHUMART11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="1187"
+     id="text783">ART</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="1199"
+     id="text785">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="1230"
+     id="rect787" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="1245"
+     id="text789">I2DHUMAPS11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="1257"
+     id="text791">Activités Physiques et Sportives</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="1269"
+     id="text793">ECTS: 2.0, Hours: 22.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="1300"
+     id="rect795" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="1315"
+     id="text797">I2DHUMEGAEA11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="1327"
+     id="text799">Etudiant associatif</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="1339"
+     id="text801">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="330"
+     y="1370"
+     id="rect803" />
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="1385"
+     id="text805">I2CCSCIPOS1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="1397"
+     id="text807">Sciences politiques semestre 1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="335"
+     y="1409"
+     id="text809">ECTS: 0.0, Hours: 0.0</text>
+  <text
+     fill="#000000"
+     font-size="14px"
+     font-weight="bold"
+     x="479.5965"
+     y="26.66227"
+     id="text811">SEM 4</text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="40"
+     id="rect813" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="55"
+     id="text815">I2ICMM41</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="67"
+     id="text817">MATHEMATIQUES ET MECANIQUE II</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="79"
+     id="text819">ECTS: 9.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="110"
+     id="rect821" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="125"
+     id="text823">I2ICMT41</text>
+  <text
+     fill="#000000"
+     font-size="6px"
+     x="480"
+     y="137"
+     id="text825"><tspan
+       sodipodi:role="line"
+       id="tspan2394"
+       x="480"
+       y="137">Equations Différentielles</tspan><tspan
+       sodipodi:role="line"
+       id="tspan2396"
+       x="480"
+       y="144.5">Ordinaires et Séries</tspan></text>
+  <text
+     fill="#000000"
+     font-size="6px"
+     x="480"
+     y="153"
+     id="text827">ECTS: 3.0, Hours:</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="180"
+     id="rect829" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="195"
+     id="text831">I2CCEM21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="207"
+     id="text833">Energie Mix et Transition</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="219"
+     id="text835">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="49.982483"
+     stroke="#000000"
+     stroke-width="0.5"
+     width="128.60089"
+     x="475.00876"
+     y="250.00876"
+     id="rect837" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="265"
+     id="text839">I2CCNU21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="277"
+     id="text841">Cultures et Compétences Numériques 1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="289"
+     id="text843">ECTS: 1.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="320"
+     id="rect845" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="335"
+     id="text847">I2ICDY41</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="347"
+     id="text849">Dynamique</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="359"
+     id="text851">ECTS: 3.0, Hours: </text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="390"
+     id="rect853" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="405"
+     id="text855">I2ICCC41</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="417"
+     id="text857">CONCEPTION ET CONSTRUCTION II</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="429"
+     id="text859">ECTS: 13.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="460"
+     id="rect861" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="475"
+     id="text863">I2ICESS4</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="487"
+     id="text865">Enseignement scientifique électif</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="499"
+     id="text867">ECTS: 3.0, Hours: 30.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="530"
+     id="rect869" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="545"
+     id="text871">I2ICMSS4</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="557"
+     id="text873">Mécanique au Service de la Santé</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="569"
+     id="text875">ECTS: 3.0, Hours: 30.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="600"
+     id="rect877" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="615"
+     id="text879">I2ICRME4</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="627"
+     id="text881">Réseaux et Machines Electriques</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="639"
+     id="text883">ECTS: 3.0, Hours: 30.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="670"
+     id="rect885" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="685"
+     id="text887">I2ICADS4</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="697"
+     id="text889">Acquisition de Données Spatiales</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="709"
+     id="text891">ECTS: 3.0, Hours: 30.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="740"
+     id="rect893" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="755"
+     id="text895">I2ICCSP4</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="767"
+     id="text897">Python pour l'ingénieur</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="779"
+     id="text899">ECTS: 3.0, Hours: 30.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="810"
+     id="rect901" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="825"
+     id="text903">I2ICRM41</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="837"
+     id="text905">Résistance des Matériaux II</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="849"
+     id="text907">ECTS: 4.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="880"
+     id="rect909" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="895"
+     id="text911">I2ICSM41</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="907"
+     id="text913">Science des Matériaux</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="919"
+     id="text915">ECTS: 1.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="950"
+     id="rect917" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="965"
+     id="text919">I2ICTI41_CHOIX</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="977"
+     id="text921">Projet GM ou GC</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="989"
+     id="text923">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="1020"
+     id="rect925" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1035"
+     id="text927">I2ICPC41</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1047"
+     id="text929">Projet Conception et Matériaux GM</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1059"
+     id="text931">ECTS: 5.0, Hours: 74.0</text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="1090"
+     id="rect933" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1105"
+     id="text935">I2DHUM21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1117"
+     id="text937">HUMANITES_SEMESTRE 2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1129"
+     id="text939">ECTS: 8.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="1160"
+     id="rect941" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1175"
+     id="text943">I2DHUMLV121</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1187"
+     id="text945">LV1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1199"
+     id="text947">ECTS: , Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="1230"
+     id="rect949" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1245"
+     id="text951">I2DHUMLV221</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1257"
+     id="text953">Langue Vivante 2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1269"
+     id="text955">ECTS: , Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="1300"
+     id="rect957" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1315"
+     id="text959">I2DHUMPPI21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1327"
+     id="text961">Projet Professionnel Individualisé 2A</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1339"
+     id="text963">ECTS: 1.0, Hours: 11.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="1370"
+     id="rect965" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1385"
+     id="text967">I2DHUMAPS21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1397"
+     id="text969">APS</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1409"
+     id="text971">ECTS: 2.0, Hours: 24.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="475"
+     y="1440"
+     id="rect973" />
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1455"
+     id="text975">I2CCSCIPOS2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1467"
+     id="text977">Sciences politiques semestre 2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="480"
+     y="1479"
+     id="text979">ECTS: 0.0, Hours: 0.0</text>
+  <text
+     fill="black"
+     font-size="14"
+     font-weight="bold"
+     x="620"
+     y="10"
+     id="text981">SEM 5</text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="620"
+     y="40"
+     id="rect983" />
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="55"
+     id="text985">I3ICFOGM51</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="67"
+     id="text987">FUNDAMENTAUX POUR L'INGENIERIE DE LA CONSTRUCTION _ GENIE MECANIQUE</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="79"
+     id="text989">ECTS: 14.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="620"
+     y="110"
+     id="rect991" />
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="125"
+     id="text993">I3ICMS51</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="137"
+     id="text995">MMC pour les Solides</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="149"
+     id="text997">ECTS: 4.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="620"
+     y="180"
+     id="rect999" />
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="195"
+     id="text1001">I3ICMT51</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="207"
+     id="text1003">EDP, Séries de Fourrier et Analyse Numérique</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="219"
+     id="text1005">ECTS: 3.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="620"
+     y="250"
+     id="rect1007" />
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="265"
+     id="text1009">I3ICMF51</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="277"
+     id="text1011">Mécanique des fluides</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="289"
+     id="text1013">ECTS: 3.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="620"
+     y="320"
+     id="rect1015" />
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="335"
+     id="text1017">I3ICSD51</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="347"
+     id="text1019">Systèmes Dynamiques</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="359"
+     id="text1021">ECTS: 4.0, Hours: 40.0</text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="620"
+     y="390"
+     id="rect1023" />
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="405"
+     id="text1025">I3ICSAGM51</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="417"
+     id="text1027">SCIENCES APPLIQUEES POUR LE GENIE MECANIQUE _ 1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="429"
+     id="text1029">ECTS: 9.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="620"
+     y="460"
+     id="rect1031" />
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="475"
+     id="text1033">I3ICCM51</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="487"
+     id="text1035">Conception mécanique</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="499"
+     id="text1037">ECTS: 3.0, Hours: 32.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="620"
+     y="530"
+     id="rect1039" />
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="545"
+     id="text1041">I3ICFA51</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="557"
+     id="text1043">Fabrication mécanique</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="569"
+     id="text1045">ECTS: 3.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="620"
+     y="600"
+     id="rect1047" />
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="615"
+     id="text1049">I3ICFA51_TOL</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="627"
+     id="text1051">Tolérancement</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="639"
+     id="text1053">ECTS: 1.0, Hours: 13.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="620"
+     y="670"
+     id="rect1055" />
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="685"
+     id="text1057">I3ICFA51_AF</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="697"
+     id="text1059">Analyse de Fabrication</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="709"
+     id="text1061">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="620"
+     y="740"
+     id="rect1063" />
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="755"
+     id="text1065">I3CCIE11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="767"
+     id="text1067">TERRE</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="779"
+     id="text1069">ECTS: 3.0, Hours: 30.0</text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="620"
+     y="810"
+     id="rect1071" />
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="825"
+     id="text1073">I3DHUM11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="837"
+     id="text1075">HUMANITES_SEMESTRE 1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="849"
+     id="text1077">ECTS: 7.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="620"
+     y="880"
+     id="rect1079" />
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="895"
+     id="text1081">I3DHUMTRE11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="907"
+     id="text1083">Technique de recherche d'emploi</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="919"
+     id="text1085">ECTS: 1.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="620"
+     y="950"
+     id="rect1087" />
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="965"
+     id="text1089">I3DHUMJS11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="977"
+     id="text1091">Job Search</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="989"
+     id="text1093">ECTS: 1.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="620"
+     y="1020"
+     id="rect1095" />
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="1035"
+     id="text1097">I3DHUMCE11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="1047"
+     id="text1099">Cours électif</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="1059"
+     id="text1101">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="620"
+     y="1090"
+     id="rect1103" />
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="1105"
+     id="text1105">I3DHUMART11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="1117"
+     id="text1107">ART</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="1129"
+     id="text1109">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="620"
+     y="1160"
+     id="rect1111" />
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="1175"
+     id="text1113">I3DHUMAPS11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="1187"
+     id="text1115">APS</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="1199"
+     id="text1117">ECTS: 2.0, Hours: 22.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="620"
+     y="1230"
+     id="rect1119" />
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="1245"
+     id="text1121">I3DHUMEGAEA11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="1257"
+     id="text1123">Etudiant associatif (EA)</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="625"
+     y="1269"
+     id="text1125">ECTS: 0.0, Hours: 0.0</text>
+  <text
+     fill="black"
+     font-size="14"
+     font-weight="bold"
+     x="765"
+     y="10"
+     id="text1127">SEM 6</text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="765"
+     y="40"
+     id="rect1129" />
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="55"
+     id="text1131">I3DHUM21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="67"
+     id="text1133">HUMANITES_SEMESTRE 2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="79"
+     id="text1135">ECTS: 10.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="765"
+     y="110"
+     id="rect1137" />
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="125"
+     id="text1139">I3DHUMBG21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="137"
+     id="text1141">Business Game</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="149"
+     id="text1143">ECTS: 1.0, Hours: 0.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="765"
+     y="180"
+     id="rect1145" />
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="195"
+     id="text1147">I3DHUMGF21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="207"
+     id="text1149">Gestion financière</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="219"
+     id="text1151">ECTS: 1.0, Hours: 0.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="765"
+     y="250"
+     id="rect1153" />
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="265"
+     id="text1155">I3DHUMBE21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="277"
+     id="text1157">Business Communication</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="289"
+     id="text1159">ECTS: 1.0, Hours: 0.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="765"
+     y="320"
+     id="rect1161" />
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="335"
+     id="text1163">I3DHUMAPS21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="347"
+     id="text1165">APS</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="359"
+     id="text1167">ECTS: 2.0, Hours: 0.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="765"
+     y="390"
+     id="rect1169" />
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="405"
+     id="text1171">I3DHUMPPI21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="417"
+     id="text1173">Projet Professionnel Individualisé</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="429"
+     id="text1175">ECTS: 1.0, Hours: 0.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="765"
+     y="460"
+     id="rect1177" />
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="475"
+     id="text1179">I3DHUMMO21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="487"
+     id="text1181">Module d'Ouverture Sociétale</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="499"
+     id="text1183">ECTS: 2.0, Hours: 0.0</text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="765"
+     y="530"
+     id="rect1185" />
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="545"
+     id="text1187">I3ICFOGM61</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="557"
+     id="text1189">FONDAMENTAUX POUR LE GENIE MECANIQUE</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="569"
+     id="text1191">ECTS: 9.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="765"
+     y="600"
+     id="rect1193" />
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="615"
+     id="text1195">I3ICTTGM61</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="627"
+     id="text1197">Transferts Thermiques I</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="639"
+     id="text1199">ECTS: 3.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="765"
+     y="670"
+     id="rect1201" />
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="685"
+     id="text1203">I3ICCS61</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="697"
+     id="text1205">Controle des Systèmes _ Asservissements</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="709"
+     id="text1207">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="765"
+     y="740"
+     id="rect1209" />
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="755"
+     id="text1211">I3ICSL61</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="767"
+     id="text1213">Systèmes Logiques</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="779"
+     id="text1215">ECTS: 2.0, Hours: 30.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="765"
+     y="810"
+     id="rect1217" />
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="825"
+     id="text1219">I3ICIS61</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="837"
+     id="text1221">Introduction à l'Ingénierie des Systèmes</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="849"
+     id="text1223">ECTS: 1.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="765"
+     y="880"
+     id="rect1225" />
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="895"
+     id="text1227">I3CCNU21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="907"
+     id="text1229">Culture et compétences numériques 2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="919"
+     id="text1231">ECTS: 1.0, Hours: </text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="765"
+     y="950"
+     id="rect1233" />
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="965"
+     id="text1235">I3ICSAGM61</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="977"
+     id="text1237">SCIENCES APPLIQUEES GENIE MECANIQUE</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="989"
+     id="text1239">ECTS: 11.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="765"
+     y="1020"
+     id="rect1241" />
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="1035"
+     id="text1243">I3ICCM61</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="1047"
+     id="text1245">Conception Mécanique</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="1059"
+     id="text1247">ECTS: 6.0, Hours: 80.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="765"
+     y="1090"
+     id="rect1249" />
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="1105"
+     id="text1251">I3ICCN61</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="1117"
+     id="text1253">Commande Numérique et Fabrication Assistée par Ordinateur</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="1129"
+     id="text1255">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="765"
+     y="1160"
+     id="rect1257" />
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="1175"
+     id="text1259">I3ICME61</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="1187"
+     id="text1261">Métrologie</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="1199"
+     id="text1263">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="765"
+     y="1230"
+     id="rect1265" />
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="1245"
+     id="text1267">I3ICTH61</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="1257"
+     id="text1269">Traitement Thermique et Soudage</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="770"
+     y="1269"
+     id="text1271">ECTS: 1.0, Hours: 11.0</text>
+  <text
+     fill="black"
+     font-size="14"
+     font-weight="bold"
+     x="910"
+     y="10"
+     id="text1273">SEM 7</text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="40"
+     id="rect1275" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="55"
+     id="text1277">I4GMFS71</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="67"
+     id="text1279">MECANIQUE DES FLUIDES ET DES STRUCTURES I</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="79"
+     id="text1281">ECTS: 11.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="110"
+     id="rect1283" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="125"
+     id="text1285">I4GMFS71_MT</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="137"
+     id="text1287">Machines Thermiques</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="149"
+     id="text1289">ECTS: , Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="180"
+     id="rect1291" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="195"
+     id="text1293">I4GMFS71_MA</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="207"
+     id="text1295">Matériaux et CND</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="219"
+     id="text1297">ECTS: , Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="250"
+     id="rect1299" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="265"
+     id="text1301">I4GMFS71_MA_MA</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="277"
+     id="text1303">Matériaux</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="289"
+     id="text1305">ECTS: , Hours: 30.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="320"
+     id="rect1307" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="335"
+     id="text1309">I4GMFS71_MA_CN</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="347"
+     id="text1311">CND</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="359"
+     id="text1313">ECTS: 1.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="390"
+     id="rect1315" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="405"
+     id="text1317">I4GMFS71_CS</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="417"
+     id="text1319">Calcul des Structures 1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="429"
+     id="text1321">ECTS: 5.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="460"
+     id="rect1323" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="475"
+     id="text1325">I4GMFS71_CS_EF</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="487"
+     id="text1327">Eléments Finis</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="499"
+     id="text1329">ECTS: 3.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="530"
+     id="rect1331" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="545"
+     id="text1333">I4GMFS71_CS_VI</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="557"
+     id="text1335">Vibrations</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="569"
+     id="text1337">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="600"
+     id="rect1339" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="615"
+     id="text1341">I4GMCF71</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="627"
+     id="text1343">CONCEPTION ET FABRICATION MECANIQUE I</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="639"
+     id="text1345">ECTS: 12.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="670"
+     id="rect1347" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="685"
+     id="text1349">I4GMCF71_FA</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="697"
+     id="text1351">Fabrication</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="709"
+     id="text1353">ECTS: 5.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="740"
+     id="rect1355" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="755"
+     id="text1357">I4GMCF71_FA_UG</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="767"
+     id="text1359">Usinage Grande Vitesse</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="779"
+     id="text1361">ECTS: 2.0, Hours: 25.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="810"
+     id="rect1363" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="825"
+     id="text1365">I4GMCF71_FA_AD</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="837"
+     id="text1367">Fabrication Additive</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="849"
+     id="text1369">ECTS: 1.0, Hours: 14.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="880"
+     id="rect1371" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="895"
+     id="text1373">I4GMCF71_FA_MO</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="907"
+     id="text1375">Moulage</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="919"
+     id="text1377">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="950"
+     id="rect1379" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="965"
+     id="text1381">I4GMCF71_TM</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="977"
+     id="text1383">Transmissions Mécaniques et Recherche Bibliographique</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="989"
+     id="text1385">ECTS: 7.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="1020"
+     id="rect1387" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1035"
+     id="text1389">I4GMCF71_TM_TM</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1047"
+     id="text1391">Transmissions Mécaniques</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1059"
+     id="text1393">ECTS: , Hours: 80.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="1090"
+     id="rect1395" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1105"
+     id="text1397">I4GMCF71_TM_RB</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1117"
+     id="text1399">Recherche Bibliographique</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1129"
+     id="text1401">ECTS: , Hours: </text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="1160"
+     id="rect1403" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1175"
+     id="text1405">I4DHUM11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1187"
+     id="text1407">HUMANITES_SEMESTRE 1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1199"
+     id="text1409">ECTS: 7.0, Hours: 85.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="1230"
+     id="rect1411" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1245"
+     id="text1413">I4DHUMDRT11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1257"
+     id="text1415">Droit</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1269"
+     id="text1417">ECTS: 1.0, Hours: 20.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="1300"
+     id="rect1419" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1315"
+     id="text1421">I4DHUMFI11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1327"
+     id="text1423">Finance</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1339"
+     id="text1425">ECTS: 1.0, Hours: 20.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="1370"
+     id="rect1427" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1385"
+     id="text1429">I4DHUMSTRAT11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1397"
+     id="text1431">Stratégie d'entreprise</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1409"
+     id="text1433">ECTS: 1.0, Hours: 20.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="1440"
+     id="rect1435" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1455"
+     id="text1437">I4DHUMLV211</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1467"
+     id="text1439">LV2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1479"
+     id="text1441">ECTS: 1.0, Hours: 20.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="1510"
+     id="rect1443" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1525"
+     id="text1445">I4DHUMAPS11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1537"
+     id="text1447">APS</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1549"
+     id="text1449">ECTS: 2.0, Hours: 22.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="1580"
+     id="rect1451" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1595"
+     id="text1453">I4DHUMART11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1607"
+     id="text1455">ART</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1619"
+     id="text1457">ECTS: , Hours: 0.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="1650"
+     id="rect1459" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1665"
+     id="text1461">I4GDHTSM11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1677"
+     id="text1463">TSM</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1689"
+     id="text1465">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="1720"
+     id="rect1467" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1735"
+     id="text1469">I4DHUMEGAEA11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1747"
+     id="text1471">Etudiant associatif (EA)</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1759"
+     id="text1473">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="1790"
+     id="rect1475" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1805"
+     id="text1477">I4DHUMSNEE11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1817"
+     id="text1479">Etudiants statut entrepreneur</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1829"
+     id="text1481">ECTS: 1.0, Hours: 20.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="1860"
+     id="rect1483" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1875"
+     id="text1485">ERASLF21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1887"
+     id="text1487">FLE Echange &amp; doubles diplômes semestre 1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1899"
+     id="text1489">ECTS: 3.0, Hours: 50.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="910"
+     y="1930"
+     id="rect1491" />
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1945"
+     id="text1493">I5ITINCOM1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1957"
+     id="text1495">INSA TOULOUSE TRANSVERSAL COURSE &amp; Project - Semester 1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="915"
+     y="1969"
+     id="text1497">ECTS: 10.0, Hours: 30.0</text>
+  <text
+     fill="black"
+     font-size="14"
+     font-weight="bold"
+     x="1055"
+     y="10"
+     id="text1499">SEM 8</text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="40"
+     id="rect1501" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="55"
+     id="text1503">I4GMFS81</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="67"
+     id="text1505">MECANIQUE DES FLUIDES ET DES TRUCTURES II</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="79"
+     id="text1507">ECTS: 12.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="110"
+     id="rect1509" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="125"
+     id="text1511">I4GMFS81_FT</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="137"
+     id="text1513">Mécanique des Fluides &amp; Transferts Thermiques 2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="149"
+     id="text1515">ECTS: 5.0, Hours: 62.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="180"
+     id="rect1517" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="195"
+     id="text1519">I4GMFS81_FT_MF</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="207"
+     id="text1521">Mécanique des Fluides 2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="219"
+     id="text1523">ECTS: , Hours: 31.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="250"
+     id="rect1525" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="265"
+     id="text1527">I4GMFS81_FT_TT</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="277"
+     id="text1529">Transferts Thermiques 2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="289"
+     id="text1531">ECTS: , Hours: 31.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="320"
+     id="rect1533" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="335"
+     id="text1535">I4GMFS81_MC</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="347"
+     id="text1537">Matériaux Composites</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="359"
+     id="text1539">ECTS: 3.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="390"
+     id="rect1541" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="405"
+     id="text1543">I4GMFS81_MC_BE</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="417"
+     id="text1545">BE Composites</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="429"
+     id="text1547">ECTS: 1.0, Hours: 12.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="460"
+     id="rect1549" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="475"
+     id="text1551">I4GMFS81_MC_CO</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="487"
+     id="text1553">Composites</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="499"
+     id="text1555">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="530"
+     id="rect1557" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="545"
+     id="text1559">I4GMFS81_CS</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="557"
+     id="text1561">Calcul des Structures 2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="569"
+     id="text1563">ECTS: 4.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="600"
+     id="rect1565" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="615"
+     id="text1567">I4GMFS81_CS_EF</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="627"
+     id="text1569">Projet Eléments Finis</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="639"
+     id="text1571">ECTS: 2.0, Hours: 18.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="670"
+     id="rect1573" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="685"
+     id="text1575">I4GMFS81_CS_FI</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="697"
+     id="text1577">Fiabilité</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="709"
+     id="text1579">ECTS: 1.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="740"
+     id="rect1581" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="755"
+     id="text1583">I4GMFS81_CS_VI</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="767"
+     id="text1585">TP Vibrations</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="779"
+     id="text1587">ECTS: 1.0, Hours: 15.0</text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="810"
+     id="rect1589" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="825"
+     id="text1591">I4GMCF81</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="837"
+     id="text1593">CONCEPTION ET FABRICATION MECANIQUE II</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="849"
+     id="text1595">ECTS: 10.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="880"
+     id="rect1597" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="895"
+     id="text1599">I4GMCF81_MM</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="907"
+     id="text1601">Modélisation Mécanique Avancée</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="919"
+     id="text1603">ECTS: 6.0, Hours: 82.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="950"
+     id="rect1605" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="965"
+     id="text1607">I4GMCF81_FP</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="977"
+     id="text1609">Fabrication 2 &amp; Projet Recherche</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="989"
+     id="text1611">ECTS: 4.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="1020"
+     id="rect1613" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1035"
+     id="text1615">I4GMCF81_FP_DP</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1047"
+     id="text1617">Déformation Plastique</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1059"
+     id="text1619">ECTS: 1.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="1090"
+     id="rect1621" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1105"
+     id="text1623">I4GMCF81_FP_GF</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1117"
+     id="text1625">Gestion de Fabrication</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1129"
+     id="text1627">ECTS: 1.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="1160"
+     id="rect1629" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1175"
+     id="text1631">I4GMCF81_FP_PR</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1187"
+     id="text1633">Projet Recherche</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1199"
+     id="text1635">ECTS: 2.0, Hours: 20.0</text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="1230"
+     id="rect1637" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1245"
+     id="text1639">I4DHUM21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1257"
+     id="text1641">HUMANITES_SEMESTRE 2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1269"
+     id="text1643">ECTS: 8.0, Hours: 85.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="1300"
+     id="rect1645" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1315"
+     id="text1647">I4DHUMLV121</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1327"
+     id="text1649">LV1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1339"
+     id="text1651">ECTS: 3.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="1370"
+     id="rect1653" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1385"
+     id="text1655">I4DHUMPIF21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1397"
+     id="text1657">Prospective et imaginaires du futur</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1409"
+     id="text1659">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="1440"
+     id="rect1661" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1455"
+     id="text1663">I4DHUMAPS21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1467"
+     id="text1665">APS</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1479"
+     id="text1667">ECTS: 2.0, Hours: 24.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="1510"
+     id="rect1669" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1525"
+     id="text1671">I4DHUMPPI21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1537"
+     id="text1673">PPI</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1549"
+     id="text1675">ECTS: 1.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="1580"
+     id="rect1677" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1595"
+     id="text1679">I4DHUMEGAEA21</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1607"
+     id="text1681">Etudiant associatif (EA)</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1619"
+     id="text1683">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="1650"
+     id="rect1685" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1665"
+     id="text1687">ERASLF31</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1677"
+     id="text1689">FLE Echange &amp; doubles diplômes semestre 2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1689"
+     id="text1691">ECTS: 3.0, Hours: 50.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1055"
+     y="1720"
+     id="rect1693" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1735"
+     id="text1695">I5ITINCOM2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1747"
+     id="text1697">INSA TOULOUSE TRANSVERSAL COURSE &amp; Project - Semester 2</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1060"
+     y="1759"
+     id="text1699">ECTS: 10.0, Hours: 30.0</text>
+  <text
+     fill="black"
+     font-size="14"
+     font-weight="bold"
+     x="1200"
+     y="10"
+     id="text1701">SEM 9</text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="40"
+     id="rect1703" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="55"
+     id="text1705">I5GMPP91</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="67"
+     id="text1707">PROJET PLURIDISCIPLINAIRE</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="79"
+     id="text1709">ECTS: 12.0, Hours: 160.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="110"
+     id="rect1711" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="125"
+     id="text1713">I5GMPP91_MS</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="137"
+     id="text1715">Modélisation et Simulation</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="149"
+     id="text1717">ECTS: 2.0, Hours: 30.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="180"
+     id="rect1719" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="195"
+     id="text1721">I5GMPP91_PJ</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="207"
+     id="text1723">Projet Pluridisciplinaire</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="219"
+     id="text1725">ECTS: 10.0, Hours: 130.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="250"
+     id="rect1727" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="265"
+     id="text1729">I5GMPP91_PJ_EN</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="277"
+     id="text1731">Anglais</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="289"
+     id="text1733">ECTS: 2.0, Hours: 30.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="320"
+     id="rect1735" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="335"
+     id="text1737">I5GMPP91_PJ_GP</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="347"
+     id="text1739">Gest. de Pj et QSE</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="359"
+     id="text1741">ECTS: , Hours: 20.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="390"
+     id="rect1743" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="405"
+     id="text1745">I5GMPP91_PJ_PI</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="417"
+     id="text1747">Propriété industrielle</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="429"
+     id="text1749">ECTS: , Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="460"
+     id="rect1751" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="475"
+     id="text1753">I5GMPP91_PJ_PR</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="487"
+     id="text1755">Projet pluridisciplinaire ou Projet Recherche</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="499"
+     id="text1757">ECTS: 6.0, Hours: </text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="530"
+     id="rect1759" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="545"
+     id="text1761">I5GMMAJ91</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="557"
+     id="text1763">APPROFONDISSEMENT METIER</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="569"
+     id="text1765">ECTS: 12.0, Hours: 145.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="600"
+     id="rect1767" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="615"
+     id="text1769">I5GMMAJ91_CM</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="627"
+     id="text1771">Computational Mechanics</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="639"
+     id="text1773">ECTS: 10.0, Hours: 115.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="670"
+     id="rect1775" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="685"
+     id="text1777">I5GMMAJ91_CM_AC</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="697"
+     id="text1779">Aerospace Composite Structures</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="709"
+     id="text1781">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="740"
+     id="rect1783" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="755"
+     id="text1785">I5GMMAJ91_CM_AI</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="767"
+     id="text1787">Artifical Intelligence</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="779"
+     id="text1789">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="810"
+     id="rect1791" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="825"
+     id="text1793">I5GMMAJ91_CM_DY</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="837"
+     id="text1795">Dynamics</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="849"
+     id="text1797">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="880"
+     id="rect1799" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="895"
+     id="text1801">I5GMMAJ91_CM_MA</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="907"
+     id="text1803">Materials</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="919"
+     id="text1805">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="950"
+     id="rect1807" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="965"
+     id="text1809">I5GMMAJ91_CM_MM</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="977"
+     id="text1811">Multiscale Modelling</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="989"
+     id="text1813">ECTS: 2.0, Hours: 23.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="1020"
+     id="rect1815" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1035"
+     id="text1817">I5GMMAJ91_ED</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1047"
+     id="text1819">Eco_Design</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1059"
+     id="text1821">ECTS: 10.0, Hours: 115.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="1090"
+     id="rect1823" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1105"
+     id="text1825">I5GMMAJ91_ED_CE</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1117"
+     id="text1827">Advanced Mechanical Design</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1129"
+     id="text1829">ECTS: 3.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="1160"
+     id="rect1831" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1175"
+     id="text1833">I5GMMAJ91_ED_CM</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1187"
+     id="text1835">Choice of Materials</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1199"
+     id="text1837">ECTS: 1.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="1230"
+     id="rect1839" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1245"
+     id="text1841">I5GMMAJ91_ED_ED</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1257"
+     id="text1843">Multibody Simulation</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1269"
+     id="text1845">ECTS: 3.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="1300"
+     id="rect1847" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1315"
+     id="text1849">I5GMMAJ91_ED_IN</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1327"
+     id="text1851">Industry 4.0</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1339"
+     id="text1853">ECTS: 1.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="1370"
+     id="rect1855" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1385"
+     id="text1857">I5GMMAJ91_ED_OP</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1397"
+     id="text1859">Optimization in Mechanical Engineering</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1409"
+     id="text1861">ECTS: 2.0, Hours: 25.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="1440"
+     id="rect1863" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1455"
+     id="text1865">I5GMMAJ91_SM</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1467"
+     id="text1867">Smart Manufacturing</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1479"
+     id="text1869">ECTS: 10.0, Hours: 115.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="1510"
+     id="rect1871" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1525"
+     id="text1873">I5GMMAJ91_SM_AM</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1537"
+     id="text1875">Advanced Machining</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1549"
+     id="text1877">ECTS: 3.0, Hours: 30.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="1580"
+     id="rect1879" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1595"
+     id="text1881">I5GMMAJ91_SM_EE</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1607"
+     id="text1883">Energy Efficiency in Production</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1619"
+     id="text1885">ECTS: , Hours: 17.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="1650"
+     id="rect1887" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1665"
+     id="text1889">I5GMMAJ91_SM_PI</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1677"
+     id="text1891">Production Industrielle et Maitrise des procédés</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1689"
+     id="text1893">ECTS: , Hours: 20.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="1720"
+     id="rect1895" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1735"
+     id="text1897">I5GMMAJ91_SM_SM</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1747"
+     id="text1899">Special Manufacturing Processes</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1759"
+     id="text1901">ECTS: 3.0, Hours: 34.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="1790"
+     id="rect1903" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1805"
+     id="text1905">I5GMMAJ91_FE</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1817"
+     id="text1907">Fluids Engineering</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1829"
+     id="text1909">ECTS: 10.0, Hours: 115.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="1860"
+     id="rect1911" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1875"
+     id="text1913">I5GMMAJ91_FE_AE</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1887"
+     id="text1915">Aerodynamics</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1899"
+     id="text1917">ECTS: 1.0, Hours: 13.0</text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="1930"
+     id="rect1919" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1945"
+     id="text1921">I5GMMAJ91_FE_CF</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1957"
+     id="text1923">Advanced Computational Fluid Dynamics</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="1969"
+     id="text1925">ECTS: 3.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="2000"
+     id="rect1927" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2015"
+     id="text1929">I5GMMAJ91_FE_CO</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2027"
+     id="text1931">Compressible Fluid Mechanics</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2039"
+     id="text1933">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="2070"
+     id="rect1935" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2085"
+     id="text1937">I5GMMAJ91_FE_MI</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2097"
+     id="text1939">Microfluidics</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2109"
+     id="text1941">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#fff4b2"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="2140"
+     id="rect1943" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2155"
+     id="text1945">I5GMMAJ91_FE_TT</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2167"
+     id="text1947">Thermal Turbomachinery</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2179"
+     id="text1949">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="2210"
+     id="rect1951" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2225"
+     id="text1953">I5GMMAJ91_MO</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2237"
+     id="text1955">Module Optionnel</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2249"
+     id="text1957">ECTS: 2.0, Hours: 30.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="2280"
+     id="rect1959" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2295"
+     id="text1961">I5GMMAJ91_MO_GC</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2307"
+     id="text1963">Gestion de configuration</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2319"
+     id="text1965">ECTS: 2.0, Hours: 30.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="2350"
+     id="rect1967" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2365"
+     id="text1969">I5GMMAJ91_MO_BM</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2377"
+     id="text1971">Biomécanique</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2389"
+     id="text1973">ECTS: 2.0, Hours: 30.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="2420"
+     id="rect1975" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2435"
+     id="text1977">I5GMMAJ91_MO_SH</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2447"
+     id="text1979">Systèmes hydrauliques</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2459"
+     id="text1981">ECTS: 2.0, Hours: 30.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="2490"
+     id="rect1983" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2505"
+     id="text1985">I5GMMAJ91_MO_TS</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2517"
+     id="text1987">Intégration mécanique thermique et spatiale</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2529"
+     id="text1989">ECTS: 2.0, Hours: 30.0</text>
+  <rect
+     fill="#D29B35"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="2560"
+     id="rect1991" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2575"
+     id="text1993">I5DHUM11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2587"
+     id="text1995">HUMANITES_SEMESTRE 1</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2599"
+     id="text1997">ECTS: 6.0, Hours: 95.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="2630"
+     id="rect1999" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2645"
+     id="text2001">I5DHUMPSE11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2657"
+     id="text2003">Psychologie sociale et éthique</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2669"
+     id="text2005">ECTS: , Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="2700"
+     id="rect2007" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2715"
+     id="text2009">I5DHUMME11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2727"
+     id="text2011">Management d'équipe</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2739"
+     id="text2013">ECTS: , Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="2770"
+     id="rect2015" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2785"
+     id="text2017">I5DHUMAPS11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2797"
+     id="text2019">APS</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2809"
+     id="text2021">ECTS: 2.0, Hours: </text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="2840"
+     id="rect2023" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2855"
+     id="text2025">I5DHUMPPI11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2867"
+     id="text2027">PPI</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2879"
+     id="text2029">ECTS: 1.0, Hours: 8.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="2910"
+     id="rect2031" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2925"
+     id="text2033">I5DHUMART11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2937"
+     id="text2035">ART</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2949"
+     id="text2037">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="2980"
+     id="rect2039" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="2995"
+     id="text2041">I5DHUMANG11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="3007"
+     id="text2043">Anglais renforcé</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="3019"
+     id="text2045">ECTS: 0.0, Hours: 0.0</text>
+  <rect
+     fill="#ccffd7"
+     height="50"
+     stroke="black"
+     stroke-width="0.5"
+     width="120"
+     x="1200"
+     y="3050"
+     id="rect2047" />
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="3065"
+     id="text2049">I5DHUMEGAEA11</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="3077"
+     id="text2051">Etudiant associatif (EA)</text>
+  <text
+     fill="black"
+     font-size="6"
+     x="1205"
+     y="3089"
+     id="text2053">ECTS: 0.0, Hours: 0.0</text>
+  <line
+     marker-end="url(#id1)"
+     stroke="black"
+     stroke-width="1"
+     x1="450"
+     x2="475"
+     y1="65.0"
+     y2="65.0"
+     id="line2055" />
+</svg>

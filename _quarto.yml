@@ -1,2 +1,5 @@
 project:
   type: website
+
+execute:
+  python: "C:/Program Files/Python312/python.exe"
