@@ -1,5 +1,5 @@
 ---
-title: "Commission RI-ICA"
+title: "Commission Relations Internationales - ICA"
 format: html
 jupyter: python3
 ---
@@ -17,7 +17,7 @@ df
 ## Idées des actions sorties au CS
 
 -   Accueil étudiants étrangers
--   Visitants
--   AAP international – point d’information
--   UPS : personne pour aider le montage de projets
+-   Informatin des visiteurs étrangers
+-   AAP international – point d’information des tutelles
 -   GRR – programme CNRS pour réseaux / actions 2
+
